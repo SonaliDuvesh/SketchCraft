@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Convert any photo into a realistic pencil or charcoal sketch — entirely in the browser.</strong>
+  <strong>Convert any photo into a realistic pencil or charcoal sketch - entirely in the browser.</strong>
 </p>
 
 <p align="center">
