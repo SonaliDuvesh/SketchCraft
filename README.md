@@ -1,7 +1,7 @@
-#  Pic2Sketch
+#  img2sketch
 
 <p align="center">
-  <img src="./demo.png" alt="Pic2Sketch Screenshot" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="./demo.png" alt="img2sketch Screenshot" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-Pic2Sketch is a lightweight, zero-dependency, client-side web application that transforms standard images into stunning, customizable hand-drawn sketches. It performs real-time canvas manipulations, generates organic stroke-by-stroke animations, and exports final creations as high-resolution PNGs or animated GIFs.
+img2sketch is a lightweight, zero-dependency, client-side web application that transforms standard images into stunning, customizable hand-drawn sketches. It performs real-time canvas manipulations, generates organic stroke-by-stroke animations, and exports final creations as high-resolution PNGs or animated GIFs.
 
 ## Key Features
 
@@ -37,7 +37,7 @@ Pic2Sketch is a lightweight, zero-dependency, client-side web application that t
 ##  Quick Start
 
 ### 1. Run Locally
-Because Pic2Sketch is built purely with standard HTML5, CSS3, and JavaScript, you don't need any complex build pipelines.
+Because img2sketch is built purely with standard HTML5, CSS3, and JavaScript, you don't need any complex build pipelines.
 
 #### Option A: Direct Open (Quickest)
 Simply double-click `index.html` or run:
