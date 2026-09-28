@@ -61,7 +61,7 @@ Then open your browser and navigate to `http://localhost:8080` (or the port spec
 
 ##  Deploy to GitHub Pages
 
-Pic2Sketch is built to be serverless and fits perfectly on GitHub Pages with zero configuration!
+img1sketch is built to be serverless and fits perfectly on GitHub Pages with zero configuration!
 
 1. **Push the repository** to GitHub. Make sure `index.html` is at the root directory of your repo.
 2. Go to your repository settings on GitHub: **Settings ➔ Pages**.
@@ -79,7 +79,7 @@ Pic2Sketch is built to be serverless and fits perfectly on GitHub Pages with zer
 ## How it Works under the Hood
 
 ### The Sketch Algorithm
-Pic2Sketch utilizes a classic image-processing pipeline mapped onto the HTML5 2D Canvas:
+img2sketch utilizes a classic image-processing pipeline mapped onto the HTML5 2D Canvas:
 
 ```mermaid
 graph TD
@@ -115,7 +115,7 @@ Rather than standard fade-ins, the animation simulates an artist drawing:
 ## File Structure
 
 ```hl
-Pic2sketch/
+img2sketch/
 ├── index.html        # App layout, settings panel & Canvas views
 ├── style.css         # Modern dark theme, responsive grid controls
 ├── script.js         # core logic, Canvas rendering, and animation loops
