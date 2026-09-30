@@ -1,7 +1,7 @@
-#  img2sketch - Interactive Digital Sketch Generation and Animation Platform
+#  SketchCraft - Interactive Digital Sketch Generation and Animation Platform
 
 <p align="center">
-  <img src="./demo.png" alt="img2sketch Screenshot" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="./demo.png" alt="SketchCraft Screenshot" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-img2sketch is a lightweight, zero-dependency, client-side web application that transforms standard images into stunning, customizable hand-drawn sketches. It performs real-time canvas manipulations, generates organic stroke-by-stroke animations, and exports final creations as high-resolution PNGs or animated GIFs.
+SketchCraft is a lightweight, zero-dependency, client-side web application that transforms standard images into stunning, customizable hand-drawn sketches. It performs real-time canvas manipulations, generates organic stroke-by-stroke animations, and exports final creations as high-resolution PNGs or animated GIFs.
 
 ## Key Features
 
@@ -37,7 +37,7 @@ img2sketch is a lightweight, zero-dependency, client-side web application that t
 ##  Quick Start
 
 ### 1. Run Locally
-Because img2sketch is built purely with standard HTML5, CSS3, and JavaScript, you don't need any complex build pipelines.
+Because SketchCraft is built purely with standard HTML5, CSS3, and JavaScript, you don't need any complex build pipelines.
 
 #### Option A: Direct Open (Quickest)
 Simply double-click `index.html` or run:
@@ -79,7 +79,7 @@ img1sketch is built to be serverless and fits perfectly on GitHub Pages with zer
 ## How it Works under the Hood
 
 ### The Sketch Algorithm
-img2sketch utilizes a classic image-processing pipeline mapped onto the HTML5 2D Canvas:
+SketchCraft utilizes a classic image-processing pipeline mapped onto the HTML5 2D Canvas:
 
 ```mermaid
 graph TD
@@ -115,7 +115,7 @@ Rather than standard fade-ins, the animation simulates an artist drawing:
 ## File Structure
 
 ```hl
-img2sketch/
+SketchCraft/
 ├── index.html        # App layout, settings panel & Canvas views
 ├── style.css         # Modern dark theme, responsive grid controls
 ├── script.js         # core logic, Canvas rendering, and animation loops
